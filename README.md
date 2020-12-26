@@ -1,5 +1,6 @@
 # Description
-The warehouse stores data sets of CN15k, PPI5k and NL27k
+The warehouse stores data sets of CN15k, PPI5k and NL27k.
+
 The designers of UKGE (Embedding Uncertain Knowledge Graphs) are the original authors who provided this data set. Thanks for their contributions.so,the original data set can still be found at https://github.com/stasl0217/UKGE.
 # SUKE
 SUKE: Embedding Model for Prediction in Uncertain Knowledge Graph
